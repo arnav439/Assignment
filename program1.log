@@ -1,0 +1,6 @@
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 1a9e6138-841f-4f97-8cb5-fa7df2a6f07d
+DEBUG:Comm:Current comms: []
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 59b09ade-400c-4069-b3ff-7aaca2c1d918
+DEBUG:Comm:Current comms: []
